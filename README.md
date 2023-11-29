@@ -1,2 +1,3 @@
 # My-second-repo2
-This is my first git repository.
+This is my first git repository.<br>
+Author - Vijay kumar
